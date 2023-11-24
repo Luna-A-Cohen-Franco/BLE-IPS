@@ -12,6 +12,8 @@ Run httpgethandler.py seperatley before running server.py and open index.html in
 
 Inside system.py configure the IP adress with the computer's, use that same IP adress in tracker.py.
 
+If a program is using up the port 50028 either stop that program or change it in system.py and tracker.py.
+
 Now start system.py, input the distances(Do not move the beacons after this), boot up the tracker and your position will be shown in your web browser through a Desmos graph.
 
 ## Warning
