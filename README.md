@@ -8,7 +8,7 @@ It requires 4 ESP32s for complete functionality aswell as some form of power sou
 
 Flash micropython firmware into your esp32s(preferably using the Thonny IDE) and install the aioble module for them with mpremote and mip: "mpremote connect <your port> mip install aioble"
 
-Run httpgethandler.py seperatley before running server.py and open index.html in a web browser.
+Run httpgethandler.py separately before running server.py and open index.html in a web browser.
 
 Inside system.py configure the IP adress with the computer's, use that same IP adress in tracker.py.
 
